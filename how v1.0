@@ -1,0 +1,20 @@
+[33mtag v2.0[m
+Tagger: Aditya Maddheshiya <adityamaddheshiya779@gmail.com>
+Date:   Tue Jun 23 13:56:39 2026 +0530
+
+Second Release
+
+[33mcommit 32ae950a6a87443877d9092ddd22afc5762cb61d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv2.0[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Aditya Maddheshiya <adityamaddheshiya779@gmail.com>
+Date:   Tue Jun 23 13:45:52 2026 +0530
+
+    index page
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2569ac7[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m<h5>  This is the third repo to learn somethinks </h5>[m
+[32m+[m[32m<p> This is the third repository. </p>[m[41m  [m
